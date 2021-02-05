@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "972768762065",
+    "firebase_url": "https://hikari-novel.firebaseio.com",
+    "project_id": "hikari-novel",
+    "storage_bucket": "hikari-novel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972768762065:android:76227a492567489eac0df0",
+        "android_client_info": {
+          "package_name": "com.tubes.lightnovel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972768762065-8ahs8o9kpaaqjitom64k8emj6u6fntp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tubes.lightnovel",
+            "certificate_hash": "309e40a866d3c10c74c4bd25c438d40d5950fbe9"
+          }
+        },
+        {
+          "client_id": "972768762065-bvvnlbvvu92d40ait3bho63lq6mgo0j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUd4UzPHtGvufm3uwPBYZlAfI0lXTznhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972768762065-bvvnlbvvu92d40ait3bho63lq6mgo0j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

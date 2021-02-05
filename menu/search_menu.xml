@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:enabled="true"
+        android:title="Filter"
+        android:icon="@drawable/menu_search"
+        app:showAsAction="ifRoom"
+        android:id="@+id/filter_action"
+        >
+    </item>
+    <item
+        android:enabled="true"
+        android:title="Search"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="ifRoom"
+        android:id="@+id/search_action"
+        >
+    </item>
+
+</menu>
