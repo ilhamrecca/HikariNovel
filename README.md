@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gitlab.com/unram/if/ram/pemrograman-bergerak-2020/tugas-besar/lightnove/-/raw/master/hikari_novel.png" alt="HIKARI NOVEL BANNER"/>
+  <img src="https://raw.githubusercontent.com/ilhamrecca/HikariNovel/main/hikari_novel.png" alt="HIKARI NOVEL BANNER"/>
 </p>
 
 
