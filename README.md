@@ -18,8 +18,8 @@
 
 ## Demo
 ##### Day and Night Mode
-![Custom fonts](https://gitlab.com/unram/if/ram/pemrograman-bergerak-2020/tugas-besar/lightnove/-/raw/master/f42059c4-87df-11e6-97f8-29e61a79e8aa.gif)
+![Custom fonts](https://raw.githubusercontent.com/ilhamrecca/HikariNovel/main/f42059c4-87df-11e6-97f8-29e61a79e8aa.gif)
 ##### Custom Fonts
-![Day night mode](https://gitlab.com/unram/if/ram/pemrograman-bergerak-2020/tugas-besar/lightnove/-/raw/master/0661c7b2-87e0-11e6-81d6-8c71051e1074.gif)
+![Day night mode](https://raw.githubusercontent.com/ilhamrecca/HikariNovel/main/0661c7b2-87e0-11e6-81d6-8c71051e1074.gif)
 
 Hikari Novel merupakan aplikasi membaca novel bebasis android. Aplikasi ini menyediakan sejumlah koleksi e-novel bagi reader. Aplikasi ini memiliki beberapa fitur utama yaitu, tracking membaca pengguna , pencarian novel berdasarkan judul atau genre, novel reader dengan tema dark dan light mode, setting font dan ukuran tulisan agar usser mendapat pengalaman membaca yang nyaman.
